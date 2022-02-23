@@ -1,7 +1,6 @@
 """
 AUTHOR(S): 
 Nima Farnoodian <nima.farnoodian@uclouvain.be>, 
-César Liesens <cesar.liesens@student.uclouvain.be>
 EPL, UCLouvain, Belgium 
 """
 
