@@ -17,6 +17,6 @@ In this project, for the Sequence Mining task, we were asked to implement either
 
 Sincerely, 
 
-[Nima Farnoodia](mailto:nima.farnoodian@student.uclouvain.be)
+[Nima Farnoodian](mailto:nima.farnoodian@student.uclouvain.be)
 
 
